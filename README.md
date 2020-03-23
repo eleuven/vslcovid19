@@ -12,8 +12,8 @@ Until now Norway's policy has been to suppress rather than mitigate the virus. W
 
 At a minimum The Ministry of Finance should start to follow its own cost-benefit recommendations and take the economics of the Corona crisis seriously. The economic stakes are too high to make policy on medical terms alone.
 
-| :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
 | Age   | Population | Average | \<Average | Poor | Fatality Rate |    Deaths | Average | \<Average |   Poor |
+| :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
 | 0-9   |    605,358 |  77.8   |   72.3    | 61.3 |    0.0000     |         0 |       0 |         0 |      0 |
 | 10-19 |    643,391 |  68.1   |   62.5    | 51.6 |    0.0000     |         0 |       0 |         0 |      0 |
 | 20-29 |    711,752 |  58.1   |   52.4    | 42.4 |    0.0000     |         0 |       0 |         0 |      0 |
