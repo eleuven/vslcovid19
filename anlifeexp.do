@@ -1,8 +1,8 @@
-//u lifeexp, clear
 insheet using lifeexp.csv, clear
+set type double
 
-sum pcdeath_korea  [fw=nboth]
-g pcdeath_norway2 = .0036345 * pcdeath_korea / r(mean) 
+sum pcdeath_ic [fw=nboth]
+g pcdeath_norway2 = .0033741 * pcdeath_ic / r(mean)
 
 g d = survboth - survboth[_n+1]
 replace d = survboth if d==.
@@ -22,7 +22,7 @@ g ll60_10   = p60 * ll10
 
 format ll* lifeexp* %10.1f
 format nb p60 ll60* %12.0fc
-format pcdeath_nor* %10.4f
+format pcdeath_nor* %10.5f
 
 expand 2
 bys age : replace xage = "Total" if _n==1

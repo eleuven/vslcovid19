@@ -1,11 +1,12 @@
+rm(list = ls())
 library(data.table)
 library(Hmisc) # wtd.quantile
 weighted.sum = function(x, w) round(sum(x * w))
 
 dt = fread("lifeexp.csv")
 
-mkor = wtd.mean(dt$pcdeath_korea, dt$nboth)
-dt[, pcdeath_nor :=  .0036345 * pcdeath_korea / mkor]
+mic = wtd.mean(dt$pcdeath_ic, dt$nboth)
+dt[, pcdeath_nor :=  .0033741 * pcdeath_ic / mic]
 dt[, p60 := pcdeath_nor * .6]
 dt[, d := survboth - survboth[.I + 1]]
 dt[.N, d := survboth]
