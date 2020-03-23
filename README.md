@@ -29,9 +29,9 @@ At a minimum The Ministry of Finance should start to follow its own cost-benefit
 |       |            |         |           |      |               | Life Toll |  VSL(Y) |       NOK |   %GDP |
 |       |            |         |           |      |   Deaths      |    10,866 |     36M |  391,176M |   11.0 |
 |       |            |         |           |      |   Health:     |           |         |           |        |
-|       |            |         |           |      |   - Average   |   158,241 |  0.575M |   90,989M |    2.6 |
-|       |            |         |           |      |   - <Aver.    |   102,159 |  0.575M |   58,741M |    1.7 |
-|       |            |         |           |      |   - Poor      |    55,251 |  0.575M |   31,769M |    0.9 |
+|       |            |         |           |      |   Average     |   158,241 |  0.575M |   90,989M |    2.6 |
+|       |            |         |           |      |   <Average    |   102,159 |  0.575M |   58,741M |    1.7 |
+|       |            |         |           |      |   Poor        |    55,251 |  0.575M |   31,769M |    0.9 |
 
 *Notes & Data sources:*
 
