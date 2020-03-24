@@ -8,7 +8,7 @@ Putting a price tag on life sounds harsh, but it is the grim reality of public p
 
 Using these numbers, population statistics and life tables from Statistics Norway, fatality rates from Korea calibrated to match Norwegian/German levels, and assuming relative poor health of Corona victims, I estimate that the value of statistical life (VSL) lost for Norway if 60% gets infected with Corona is 0.9% of GDP. Ten times less than the 280 billion crowns mentioned above. This number is relatively low because Corona hits the old and infirm the hardest and ignoring this would overestimate the value of life lost by a factor of 12.
 
-Until now Norway's policy has been to suppress rather than mitigate the virus. While it is crucial to ensure that the health system does not collapse, current numbers show that we are only at 15 percent of available capacity. Given the relatively modest cost of higher infection rates and the large economic cost of keeping them low, these numbers suggest that Norway should seriously consider steps toward a more targeted and weaker mitigation strategy.
+Until now Norway's policy has been to suppress rather than mitigate the virus. While it is crucial to ensure that the health system does not collapse, current numbers show that we are not exploiting hospital capacity. Given the relatively modest cost of higher infection rates and the large economic cost of keeping them low, these numbers suggest that Norway should seriously consider steps toward a more targeted and weaker mitigation strategy.
 
 At a minimum The Ministry of Finance should start to follow its own cost-benefit recommendations and take the economics of the Corona crisis seriously. The economic stakes are too high to make policy on medical terms alone.
 
