@@ -37,10 +37,8 @@ Until now Norway's policy has been to suppress rather than mitigate the virus. W
 
 Most of the VSL is concentrated in the older age groups as illustrated by the following table:
 
-|       |         |           |      |             |
-| :---: | :-----: | :-------: | :--: | :---------: |
-|       |         |   Share   |      |             |
 |       | Average | \<Average | Poor | Labor Force |
+| :---: | :-----: | :-------: | :--: | :---------: |
 | 10-19 |  \<.01  |   \<.01   | 0.01 |    0.04     |
 | 20-29 |  0.01   |   0.02    | 0.03 |    0.20     |
 | 30-39 |  0.03   |   0.04    | 0.06 |    0.23     |
