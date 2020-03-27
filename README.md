@@ -46,7 +46,7 @@ Most of the VSL is concentrated in the older age groups as illustrated by the fo
 | 50-59 |  0.14   |   0.17    | 0.20 |    0.20     |
 |  60+  |  0.77   |   0.71    | 0.63 |    0.11     |
 
-Between 63% to 77% of the cost is in the 60+ age group which only accounts for 11% of the labor force. While only 9% to 17% of the cost is among the age group up to 40 which account for about 70% of the labor force.
+Between 63% to 77% of the cost is in the 60+ age group which only accounts for 11% of the labor force. While only 9% to 17% of the cost lies with the age group up to 40 which accounts for about 70% of the labor force.
 
 Given the relatively modest cost of higher infection rates and the large economic cost of keeping them low, these numbers suggest that Norway should seriously consider steps toward a more targeted and weaker mitigation strategy. 
 
