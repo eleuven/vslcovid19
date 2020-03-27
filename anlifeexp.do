@@ -1,5 +1,4 @@
 insheet using lifeexp.csv, clear
-set type double
 
 sum pcdeath_ic [fw=nboth]
 g pcdeath_norway2 = .0033741 * pcdeath_ic / r(mean)
