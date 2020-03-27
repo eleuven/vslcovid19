@@ -8,6 +8,7 @@ Putting a price tag on life sounds harsh, but it is the grim reality of public p
 
 Using these numbers, population statistics and life tables from Statistics Norway, fatality rates from Korea calibrated to match Norwegian/German levels, and assuming relative poor health of Corona victims, I estimate that the value of statistical life (VSL) lost for Norway if 60% gets infected with Corona is 0.9% of GDP. Ten times less than the 280 billion crowns mentioned above. This number is relatively low because Corona hits the old and infirm the hardest and ignoring this would overestimate the value of life lost by a factor of 12. Unadjusted fatality rates would put the number at 3% of GDP, and assuming below average rather than poor health 1.7% of GDP. 
 
+***
 
 | Age   | Population | Average | \<Average | Poor | Fatality Rate |    Deaths | Average | \<Average |   Poor |
 | :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
@@ -30,24 +31,21 @@ Using these numbers, population statistics and life tables from Statistics Norwa
 |       |            |         |           |      |   <Average    |   102,159 |  0.575M |   58,741M |    1.7 |
 |       |            |         |           |      |   Poor        |    55,251 |  0.575M |   31,769M |    0.9 |
 
-*Notes & Data sources:*
-
-Life Expectancy: https://www.ssb.no/256921/life-tables. Average=Average, \<Average 25th percentile, Poor: 10th percentile.
-
-Population Size: https://www.ssb.no/en/statbank/table/07459/tableViewLayout2/
-
-Fatality Rate: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand. Imperial College Imperial College COVID-19 Response Team, 16 march 2020. Relatively adjusted to match Norwegian COVID-19 deaths per case of 0.00337 (which is similar to that of Germany).
-
-Value of a Statistical Life (VSL), VSL year (VSLY) (in million (M) NOK) adjusted to 2020 NOK using CPI:
-
-https://www.regjeringen.no/no/dokumenter/nou-2012-16/id700821/?ch=11
+*Notes & Data sources: Life Expectancy: https://www.ssb.no/256921/life-tables. Average=Average, \<Average 25th percentile, Poor: 10th percentile. Population Size: https://www.ssb.no/en/statbank/table/07459/tableViewLayout2/ Fatality Rate: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand. Imperial College Imperial College COVID-19 Response Team, 16 march 2020. Relatively adjusted to match Norwegian COVID-19 deaths per case of 0.00337 (which is similar to that of Germany). Value of a Statistical Life (VSL), VSL year (VSLY) (in million (M) NOK) adjusted to 2020 NOK using CPI: https://www.regjeringen.no/no/dokumenter/nou-2012-16/id700821/?ch=11*
  
+***
 
 Until now Norway's policy has been to suppress rather than mitigate the virus. While it is crucial to ensure that the health system does not collapse, current numbers show that we are not exploiting hospital capacity. 
 
+***
+
 ![COVID-19 Hospitalisations Norway](sykehus.png)
 
+***
+
 Most of the VSL is concentrated in the older age groups as illustrated by the following table:
+
+***
 
 |       |         |           |      |             |
 | :---: | :-----: | :-------: | :--: | :---------: |
@@ -59,6 +57,8 @@ Most of the VSL is concentrated in the older age groups as illustrated by the fo
 | 40-49 |  0.05   |   0.06    | 0.08 |    0.22     |
 | 50-59 |  0.14   |   0.17    | 0.20 |    0.20     |
 |  60+  |  0.77   |   0.71    | 0.63 |    0.11     |
+
+***
 
 Between 63% to 77% of the cost is in the 60+ age group which only accounts for 11% of the labor force. While only 9% to 17% of the cost is among the age group up to 40 which account for about 70% of the labor force.
 
