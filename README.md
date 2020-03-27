@@ -8,10 +8,10 @@ Putting a price tag on life sounds harsh, but it is the grim reality of public p
 
 Using these numbers, population statistics and life tables from Statistics Norway, fatality rates from Korea calibrated to match Norwegian/German levels, and assuming relative poor health of Corona victims, I estimate that the value of statistical life (VSL) lost for Norway if 60% gets infected with Corona is 0.9% of GDP. Ten times less than the 280 billion crowns mentioned above. This number is relatively low because Corona hits the old and infirm the hardest and ignoring this would overestimate the value of life lost by a factor of 12. Unadjusted fatality rates would put the number at 3% of GDP, and assuming below average rather than poor health 1.7% of GDP. 
 
+| :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
 |       |            | Life    |  Expect.  | yrs  |               |           | VSL     | Lost      |   yrs  |
 |       |            | Health: |           |      |               |           | Health: |           |        |
 | Age   | Population | Average | \<Average | Poor | Fatality Rate |    Deaths | Average | \<Average |   Poor |
-| :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
 | 0-9   |    605,358 |  77.8   |   72.3    | 61.3 |    0.00001    |         2 |     163 |       152 |    129 |
 | 10-19 |    643,391 |  68.1   |   62.5    | 51.6 |    0.00002    |         7 |     456 |       419 |    346 |
 | 20-29 |    711,752 |  58.1   |   52.4    | 42.4 |    0.00009    |        37 |   2,151 |     1,939 |  1,568 |
