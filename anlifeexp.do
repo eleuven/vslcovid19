@@ -31,3 +31,29 @@ replace ll10 = . if xage=="Total"
 
 collapse (count) nboth (mean) pcdeath_norway2 (mean) lifeexpboth ll25 ll10 (sum) p60 ll60* [fw=nboth], by(xage)
 list, sep(0) noob
+
+
+drop in 1
+drop in 9
+replace xage = "60+" if xage>="60-69"
+collapse (sum) ll*_*, by(xage)
+foreach v of var ll* {
+	sum `v'
+	g r`v' = `v' / r(sum)
+}
+
+input lfs 
+.045
+.196
+.225
+.222
+.205
+.107
+
+
+format r* lfs %6.2f
+l xage r* lfs, sep(0) noo
+
+
+
+

@@ -8,13 +8,6 @@ Putting a price tag on life sounds harsh, but it is the grim reality of public p
 
 Using these numbers, population statistics and life tables from Statistics Norway, fatality rates from Korea calibrated to match Norwegian/German levels, and assuming relative poor health of Corona victims, I estimate that the value of statistical life (VSL) lost for Norway if 60% gets infected with Corona is 0.9% of GDP. Ten times less than the 280 billion crowns mentioned above. This number is relatively low because Corona hits the old and infirm the hardest and ignoring this would overestimate the value of life lost by a factor of 12. Unadjusted fatality rates would put the number at 3% of GDP, and assuming below average rather than poor health 1.7% of GDP. 
 
-Until now Norway's policy has been to suppress rather than mitigate the virus. While it is crucial to ensure that the health system does not collapse, current numbers show that we are not exploiting hospital capacity. 
-
-![COVID-19 Hospitalisations Norway](sykehus.png)
-
-Given the relatively modest cost of higher infection rates and the large economic cost of keeping them low, these numbers suggest that Norway should seriously consider steps toward a more targeted and weaker mitigation strategy. 
-
-At a minimum The Ministry of Finance should start to follow its own cost-benefit recommendations and take the economics of the Corona crisis seriously. The economic stakes are too high to make policy on medical terms alone.
 
 | Age   | Population | Average | \<Average | Poor | Fatality Rate |    Deaths | Average | \<Average |   Poor |
 | :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
@@ -49,3 +42,26 @@ Value of a Statistical Life (VSL), VSL year (VSLY) (in million (M) NOK) adjusted
 
 https://www.regjeringen.no/no/dokumenter/nou-2012-16/id700821/?ch=11
  
+
+Until now Norway's policy has been to suppress rather than mitigate the virus. While it is crucial to ensure that the health system does not collapse, current numbers show that we are not exploiting hospital capacity. 
+
+![COVID-19 Hospitalisations Norway](sykehus.png)
+
+Most of the VSL is concentrated in the older age groups as illustrated by the following table:
+
+|       |         |           |      |             |
+| :---: | :-----: | :-------: | :--: | :---------: |
+|       |         |   Share   |      |             |
+|       | Average | \<Average | Poor | Labor Force |
+| 10-19 |  \<.01  |   \<.01   | 0.01 |    0.04     |
+| 20-29 |  0.01   |   0.02    | 0.03 |    0.20     |
+| 30-39 |  0.03   |   0.04    | 0.06 |    0.23     |
+| 40-49 |  0.05   |   0.06    | 0.08 |    0.22     |
+| 50-59 |  0.14   |   0.17    | 0.20 |    0.20     |
+|  60+  |  0.77   |   0.71    | 0.63 |    0.11     |
+
+Between 63% to 77% of the cost is in the 60+ age group which only accounts for 11% of the labor force. While only 9% to 17% of the cost is among the age group up to 40 which account for about 70% of the labor force.
+
+Given the relatively modest cost of higher infection rates and the large economic cost of keeping them low, these numbers suggest that Norway should seriously consider steps toward a more targeted and weaker mitigation strategy. 
+
+At a minimum The Ministry of Finance should start to follow its own cost-benefit recommendations and take the economics of the Corona crisis seriously. The economic stakes are too high to make policy on medical terms alone.
