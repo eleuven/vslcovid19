@@ -10,7 +10,7 @@ Using these numbers, population statistics and life tables from Statistics Norwa
 
 | :---- | ---------: | :-----: | :-------: | :--: | :-----------: | --------: | ------: | --------: | -----: |
 |       |            | Life    |  Expect.  | yrs  |               |           | VSL     | Lost      |   yrs  |
-|       |            | Health: |           |      |               |           | Health: |           |        |
+|       |            | Health  |           |      |               |           | Health  |           |        |
 | Age   | Population | Average | \<Average | Poor | Fatality Rate |    Deaths | Average | \<Average |   Poor |
 | 0-9   |    605,358 |  77.8   |   72.3    | 61.3 |    0.00001    |         2 |     163 |       152 |    129 |
 | 10-19 |    643,391 |  68.1   |   62.5    | 51.6 |    0.00002    |         7 |     456 |       419 |    346 |
